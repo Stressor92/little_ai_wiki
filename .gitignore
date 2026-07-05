@@ -1,0 +1,48 @@
+# Default deny: ignore everything at repository root.
+/*
+
+# Keep gitignore itself.
+!/.gitignore
+
+# Root documents.
+!/AGENTS.md
+!/README.md
+!/requirements.txt
+
+# Keep shared instructions and tooling.
+!/skills/
+!/skills/**
+!/tools/
+!/tools/**
+
+# Keep personas overview only.
+!/personas/
+!/personas/INDEX.md
+
+# Keep only template domain folders.
+!/00_raw_template/
+!/00_raw_template/**
+!/10_md_template/
+!/10_md_template/**
+!/20_chapter_template/
+!/20_chapter_template/**
+!/30_chunk_template/
+!/30_chunk_template/**
+!/40_index_template/
+!/40_index_template/**
+!/50_embedding_template/
+!/50_embedding_template/**
+!/60_wiki_template/
+!/60_wiki_template/**
+!/70_personal_template_data/
+!/70_personal_template_data/**
+!/80_template_analysis/
+!/80_template_analysis/**
+!/90_template_skills/
+!/90_template_skills/**
+
+# Exclude generated/cache artifacts even inside allowed folders.
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd

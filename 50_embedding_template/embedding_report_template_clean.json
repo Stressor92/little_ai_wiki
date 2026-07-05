@@ -1,0 +1,11 @@
+{
+  "stage": "embedding_builder",
+  "domain": "template",
+  "input": "40_index_template",
+  "output": "50_embedding_template",
+  "created": 16,
+  "updated": 0,
+  "skipped": 0,
+  "warnings": [],
+  "errors": []
+}

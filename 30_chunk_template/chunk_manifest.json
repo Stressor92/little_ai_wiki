@@ -1,0 +1,260 @@
+[
+  {
+    "chunk_id": "chunk_template_source_source1_ch02_0001",
+    "output_file": "30_chunk_template/template_source_source1/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source1/source_source1_002_Slide_2_Lorem_ipsum.md",
+    "token_count": 106
+  },
+  {
+    "chunk_id": "chunk_template_source_source10_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source10/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source10/source_source10_001_Source10.md",
+    "token_count": 301
+  },
+  {
+    "chunk_id": "chunk_template_source_source10_ch01_0002",
+    "output_file": "30_chunk_template/template_source_source10/chunk_0002.md",
+    "chapter_file": "20_chapter_template/source_source10/source_source10_001_Source10.md",
+    "token_count": 322
+  },
+  {
+    "chunk_id": "chunk_template_source_source10_ch01_0003",
+    "output_file": "30_chunk_template/template_source_source10/chunk_0003.md",
+    "chapter_file": "20_chapter_template/source_source10/source_source10_001_Source10.md",
+    "token_count": 13
+  },
+  {
+    "chunk_id": "chunk_template_source_source2_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source2/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source2/source_source2_001_Tabelle1.md",
+    "token_count": 112
+  },
+  {
+    "chunk_id": "chunk_template_source_source3_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source3/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source3/source_source3_001_Source3.md",
+    "token_count": 112
+  },
+  {
+    "chunk_id": "chunk_template_source_source4_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source4/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source4/source_source4_001_Inhalt.md",
+    "token_count": 318
+  },
+  {
+    "chunk_id": "chunk_template_source_source4_ch01_0002",
+    "output_file": "30_chunk_template/template_source_source4/chunk_0002.md",
+    "chapter_file": "20_chapter_template/source_source4/source_source4_001_Inhalt.md",
+    "token_count": 379
+  },
+  {
+    "chunk_id": "chunk_template_source_source5_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source5/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source5/source_source5_001_Lorem_ipsum.md",
+    "token_count": 154
+  },
+  {
+    "chunk_id": "chunk_template_source_source5_ch02_0001",
+    "output_file": "30_chunk_template/template_source_source5/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source5/source_source5_002_Lorem_ipsum.md",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "chunk_template_source_source5_ch03_0001",
+    "output_file": "30_chunk_template/template_source_source5/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source5/source_source5_003_Lorem_ipsum.md",
+    "token_count": 66
+  },
+  {
+    "chunk_id": "chunk_template_source_source5_ch04_0001",
+    "output_file": "30_chunk_template/template_source_source5/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source5/source_source5_004_Lorem_ipsum.md",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "chunk_template_source_source5_ch05_0001",
+    "output_file": "30_chunk_template/template_source_source5/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source5/source_source5_005_Lorem_ipsum.md",
+    "token_count": 171
+  },
+  {
+    "chunk_id": "chunk_template_source_source5_ch06_0001",
+    "output_file": "30_chunk_template/template_source_source5/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source5/source_source5_006_Lorem_ipsum.md",
+    "token_count": 91
+  },
+  {
+    "chunk_id": "chunk_template_source6_ch01_0001",
+    "output_file": "30_chunk_template/template_source6/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6/source_source6_001_Lorem_ipsum.md",
+    "token_count": 153
+  },
+  {
+    "chunk_id": "chunk_template_source6_ch02_0001",
+    "output_file": "30_chunk_template/template_source6/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6/source_source6_002_Lorem_ipsum.md",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "chunk_template_source6_ch03_0001",
+    "output_file": "30_chunk_template/template_source6/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6/source_source6_003_Lorem_ipsum.md",
+    "token_count": 66
+  },
+  {
+    "chunk_id": "chunk_template_source6_ch04_0001",
+    "output_file": "30_chunk_template/template_source6/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6/source_source6_004_Lorem_ipsum.md",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "chunk_template_source6_ch05_0001",
+    "output_file": "30_chunk_template/template_source6/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6/source_source6_005_Lorem_ipsum.md",
+    "token_count": 171
+  },
+  {
+    "chunk_id": "chunk_template_source6_ch06_0001",
+    "output_file": "30_chunk_template/template_source6/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6/source_source6_006_Lorem_ipsum.md",
+    "token_count": 91
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_docx_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_docx/source_source6_docx_001_Lorem_ipsum.md",
+    "token_count": 153
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_docx_ch02_0001",
+    "output_file": "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_docx/source_source6_docx_002_Lorem_ipsum.md",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_docx_ch03_0001",
+    "output_file": "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_docx/source_source6_docx_003_Lorem_ipsum.md",
+    "token_count": 66
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_docx_ch04_0001",
+    "output_file": "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_docx/source_source6_docx_004_Lorem_ipsum.md",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_docx_ch05_0001",
+    "output_file": "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_docx/source_source6_docx_005_Lorem_ipsum.md",
+    "token_count": 171
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_docx_ch06_0001",
+    "output_file": "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_docx/source_source6_docx_006_Lorem_ipsum.md",
+    "token_count": 91
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_epub_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_epub/source_source6_epub_001_Lorem_ipsum.md",
+    "token_count": 68
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_epub_ch02_0001",
+    "output_file": "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_epub/source_source6_epub_002_Lorem_ipsum.md",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_epub_ch03_0001",
+    "output_file": "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_epub/source_source6_epub_003_Lorem_ipsum.md",
+    "token_count": 64
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_epub_ch04_0001",
+    "output_file": "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_epub/source_source6_epub_004_Lorem_ipsum.md",
+    "token_count": 173
+  },
+  {
+    "chunk_id": "chunk_template_source_source6_epub_ch05_0001",
+    "output_file": "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source6_epub/source_source6_epub_005_Lorem_ipsum.md",
+    "token_count": 91
+  },
+  {
+    "chunk_id": "chunk_template_source_source7_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source7/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source7/source_source7_001_Lorem_ipsum.md",
+    "token_count": 73
+  },
+  {
+    "chunk_id": "chunk_template_source_source7_ch02_0001",
+    "output_file": "30_chunk_template/template_source_source7/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source7/source_source7_002_Lorem_ipsum.md",
+    "token_count": 71
+  },
+  {
+    "chunk_id": "chunk_template_source_source7_ch03_0001",
+    "output_file": "30_chunk_template/template_source_source7/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source7/source_source7_003_Lorem_ipsum.md",
+    "token_count": 70
+  },
+  {
+    "chunk_id": "chunk_template_source_source7_ch04_0001",
+    "output_file": "30_chunk_template/template_source_source7/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source7/source_source7_004_Lorem_ipsum.md",
+    "token_count": 195
+  },
+  {
+    "chunk_id": "chunk_template_source_source7_ch05_0001",
+    "output_file": "30_chunk_template/template_source_source7/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source7/source_source7_005_Lorem_ipsum.md",
+    "token_count": 103
+  },
+  {
+    "chunk_id": "chunk_template_source_source8_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source8/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source8/source_source8_001_Lorem_ipsum.md",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "chunk_template_source_source8_ch02_0001",
+    "output_file": "30_chunk_template/template_source_source8/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source8/source_source8_002_Lorem_ipsum.md",
+    "token_count": 66
+  },
+  {
+    "chunk_id": "chunk_template_source_source8_ch03_0001",
+    "output_file": "30_chunk_template/template_source_source8/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source8/source_source8_003_Lorem_ipsum.md",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "chunk_template_source_source8_ch04_0001",
+    "output_file": "30_chunk_template/template_source_source8/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source8/source_source8_004_Lorem_ipsum.md",
+    "token_count": 171
+  },
+  {
+    "chunk_id": "chunk_template_source_source8_ch05_0001",
+    "output_file": "30_chunk_template/template_source_source8/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source8/source_source8_005_Lorem_ipsum.md",
+    "token_count": 91
+  },
+  {
+    "chunk_id": "chunk_template_source_source9_ch01_0001",
+    "output_file": "30_chunk_template/template_source_source9/chunk_0001.md",
+    "chapter_file": "20_chapter_template/source_source9/source_source9_001_Inhalt.md",
+    "token_count": 369
+  },
+  {
+    "chunk_id": "chunk_template_source_source9_ch01_0002",
+    "output_file": "30_chunk_template/template_source_source9/chunk_0002.md",
+    "chapter_file": "20_chapter_template/source_source9/source_source9_001_Inhalt.md",
+    "token_count": 261
+  }
+]

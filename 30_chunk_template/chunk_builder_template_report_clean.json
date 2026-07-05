@@ -1,0 +1,136 @@
+{
+  "created_chunks": [
+    "30_chunk_template/template_source_source1/chunk_0001.md",
+    "30_chunk_template/template_source_source10/chunk_0001.md",
+    "30_chunk_template/template_source_source10/chunk_0002.md",
+    "30_chunk_template/template_source_source10/chunk_0003.md",
+    "30_chunk_template/template_source_source2/chunk_0001.md",
+    "30_chunk_template/template_source_source3/chunk_0001.md",
+    "30_chunk_template/template_source_source4/chunk_0001.md",
+    "30_chunk_template/template_source_source4/chunk_0002.md",
+    "30_chunk_template/template_source_source5/chunk_0001.md",
+    "30_chunk_template/template_source6/chunk_0001.md",
+    "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "30_chunk_template/template_source_source7/chunk_0001.md",
+    "30_chunk_template/template_source_source8/chunk_0001.md",
+    "30_chunk_template/template_source_source9/chunk_0001.md",
+    "30_chunk_template/template_source_source9/chunk_0002.md"
+  ],
+  "updated_chunks": [
+    "30_chunk_template/template_source_source5/chunk_0001.md",
+    "30_chunk_template/template_source_source5/chunk_0001.md",
+    "30_chunk_template/template_source_source5/chunk_0001.md",
+    "30_chunk_template/template_source_source5/chunk_0001.md",
+    "30_chunk_template/template_source_source5/chunk_0001.md",
+    "30_chunk_template/template_source6/chunk_0001.md",
+    "30_chunk_template/template_source6/chunk_0001.md",
+    "30_chunk_template/template_source6/chunk_0001.md",
+    "30_chunk_template/template_source6/chunk_0001.md",
+    "30_chunk_template/template_source6/chunk_0001.md",
+    "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "30_chunk_template/template_source_source6_docx/chunk_0001.md",
+    "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "30_chunk_template/template_source_source6_epub/chunk_0001.md",
+    "30_chunk_template/template_source_source7/chunk_0001.md",
+    "30_chunk_template/template_source_source7/chunk_0001.md",
+    "30_chunk_template/template_source_source7/chunk_0001.md",
+    "30_chunk_template/template_source_source7/chunk_0001.md",
+    "30_chunk_template/template_source_source8/chunk_0001.md",
+    "30_chunk_template/template_source_source8/chunk_0001.md",
+    "30_chunk_template/template_source_source8/chunk_0001.md",
+    "30_chunk_template/template_source_source8/chunk_0001.md"
+  ],
+  "skipped_chunks": [],
+  "warnings": {
+    "20_chapter_template/source_source10/source_source10_001_Source10.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source5/source_source5_002_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source5/source_source5_003_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source5/source_source5_004_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source5/source_source5_006_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6/source_source6_002_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6/source_source6_003_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6/source_source6_004_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6/source_source6_006_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_docx/source_source6_docx_002_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_docx/source_source6_docx_003_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_docx/source_source6_docx_004_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_docx/source_source6_docx_006_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_epub/source_source6_epub_001_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_epub/source_source6_epub_002_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_epub/source_source6_epub_003_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source6_epub/source_source6_epub_005_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source7/source_source7_001_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source7/source_source7_002_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source7/source_source7_003_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source8/source_source8_001_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source8/source_source8_002_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source8/source_source8_003_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ],
+    "20_chapter_template/source_source8/source_source8_005_Lorem_ipsum.md": [
+      "token_count below minimum"
+    ]
+  },
+  "errors": {},
+  "validation": {
+    "duplicate_chunk_ids": false,
+    "has_errors": false
+  },
+  "execution_time": 0.0461,
+  "documents_processed": 12,
+  "chapters_processed": 39,
+  "chunks_created": 43,
+  "average_chunk_size": 129.3,
+  "largest_chunk": 379,
+  "smallest_chunk": 13
+}
