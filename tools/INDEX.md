@@ -40,7 +40,7 @@ Cross-cutting:
 - Shared configuration, persistence, and ranking logic.
 
 2. `retrieval/`
-- `fetchers.py`, `downloader.py`, `download.py`, `inspect_db.py`
+- `fetchers.py`, `downloader.py`, `download.py`, `inspect_db.py`, `wiki_prepare_dump_index.py`, `wiki_download.py`, `wiki_update.py`
 - Source retrieval, download handling, and DB inspection.
 
 3. `ingest/`
@@ -105,8 +105,19 @@ Stage harmonization status:
 - Build topic pages from indexed evidence.
 
 7. Retrieval and Acquisition Helpers
-- `fetchers.py`, `download.py`, `downloader.py`, `relevance.py`
+- `fetchers.py`, `download.py`, `downloader.py`, `wiki_prepare_dump_index.py`, `wiki_download.py`, `wiki_update.py`, `relevance.py`
 - Source retrieval and ranking support.
+
+### Offline Wikipedia Retrieval (English)
+1. Build local offline index from Wikimedia dump:
+2. `python -m tools.retrieval.wiki_prepare_dump_index --domain health --input path/to/enwiki-latest-pages-articles.xml.bz2 --output 00_raw_health/wikipedia/wikipedia_index.sqlite --report 00_raw_health/wikipedia/wiki_prepare_report.json`
+3. Download seed articles plus linked articles up to depth x:
+4. `python -m tools.retrieval.wiki_download --domain health --input 00_raw_health/wikipedia/wikipedia_index.sqlite --output 00_raw_health/wikipedia --seeds "Diabetes mellitus,Public health" --depth 2 --max-articles 1000 --report 00_raw_health/wikipedia/wiki_download_report.json`
+5. Update already populated wikipedia raw pages to latest dump revision and keep downstream layers consistent:
+6. `python -m tools.retrieval.wiki_update --domain health --input 00_raw_health/wikipedia/wikipedia_index.sqlite --output 00_raw_health/wikipedia --run-pipeline incremental --report 00_raw_health/wikipedia/wiki_update_report.json`
+7. Raw article format is one file per topic: `wikipedia_<slug>.txt` with YAML frontmatter metadata header + article body.
+8. Legacy `wikipedia_<slug>_metadata.json` files are automatically removed by `wiki_download`/`wiki_update`.
+9. Use `--dry-run` for preview, `--force` to rewrite all discovered pages, `--run-pipeline none` to skip pipeline execution.
 
 8. Shared Runtime and Data Access
 - `shared/*` and `pipelines/*`
